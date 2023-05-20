@@ -1,0 +1,5 @@
+client_stream2
+
+cd client_stream2
+cmake CMakeLists.txt
+make
